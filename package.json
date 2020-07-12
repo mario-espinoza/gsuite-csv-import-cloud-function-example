@@ -1,0 +1,23 @@
+{
+  "name": "gsuite-csv-import-cloud-function-example",
+  "version": "1.0.0",
+  "description": "Create project Enable Sheets API Create service account",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mespinozas/gsuite-csv-import-cloud-function-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mespinozas/gsuite-csv-import-cloud-function-example/issues"
+  },
+  "homepage": "https://github.com/mespinozas/gsuite-csv-import-cloud-function-example#readme",
+  "dependencies": {
+    "@google-cloud/storage": "^5.1.2",
+    "googleapis": "^52.1.0"
+  }
+}
