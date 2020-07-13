@@ -1,5 +1,5 @@
 {
-  "name": "gsuite-csv-import-cloud-function-example",
+  "name": "csv2sheet",
   "version": "1.0.0",
   "description": "Create project Enable Sheets API Create service account",
   "main": "index.js",
