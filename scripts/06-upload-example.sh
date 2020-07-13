@@ -2,5 +2,5 @@
 
 source .env
 
-gsutil cp ./data/example.csv gs://$BUCKET_NAME
+gsutil cp ./data/*.csv gs://$BUCKET_NAME
  
