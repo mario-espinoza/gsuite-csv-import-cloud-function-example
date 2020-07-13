@@ -4,9 +4,9 @@ Based on [Cloud Function to Automate CSV data import into Google Sheets](https:/
 
 Scripts:
 
-1. Create project [link](./scripts/01-create-project.sh)
-2. Enable Sheets API
-3. Create service account
-4. Create storage bucket
-5. Deploy code function
-6. Test the code
+1. Create project [(script)](./scripts/01-create-project.sh)
+2. Enable Sheets API [(script)- TBD](./scripts/02-enable-sheets-api.sh)
+3. Create service account [(script) - TBD](./scripts/03-create-service-account.sh)
+4. Create storage bucket [(script)](./scripts/04-create-storage-bucket.sh)
+5. Deploy code function [(script)](./scripts/05-deploy-cloud-function.sh)
+6. Test the code [(script)](./scripts/06-upload-examples.sh)
