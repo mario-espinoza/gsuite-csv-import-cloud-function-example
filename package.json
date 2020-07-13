@@ -1,6 +1,6 @@
 {
   "name": "csv2sheet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create project Enable Sheets API Create service account",
   "main": "index.js",
   "scripts": {
