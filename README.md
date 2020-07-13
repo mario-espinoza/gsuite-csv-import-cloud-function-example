@@ -9,4 +9,4 @@ Scripts:
 3. Create service account [(script) - TBD](./scripts/03-create-service-account.sh)
 4. Create storage bucket [(script)](./scripts/04-create-storage-bucket.sh)
 5. Deploy code function [(script)](./scripts/05-deploy-cloud-function.sh)
-6. Test the code [(script)](./scripts/06-upload-examples.sh)
+6. Test the code [(script)](./scripts/06-upload-example.sh)
